@@ -1,0 +1,21 @@
+* Tasks
+** DONE Start a new org file for tutorial
+** DONE Outline document
+** TODO Take over the world
+** TODO Squash competition 
+** TODO Nerd it up
+
+* Introduction
+Org mode is a personal information managements and outlining tool for
+Emacs. This document is intended to give the reader a feel for org mode
+
+** Obtaining org-mode
+** Installation
+** Configuration
+* The basics
+** Creating a new file
+** Simple task list
+** Using headlines to structure a document
+** Links to other places
+** Adding notes to a task
+

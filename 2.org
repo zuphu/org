@@ -1,0 +1,29 @@
+#+TODO: TODO WAITING DONE
+#-*- mode: org AeAEaeaAEAAEAAE-*-
+#+STARTUP: showall
+
+* Welcome to org-mode
+
+  Welcome, and -mode. Making outlines in
+  org is very simple. It is just text! Just start typing.
+* This is a new item on my list
+
+* This is a headline, it starts with one or more stars
+  A heading has one star, a sub-heading two, etc.
+* Working with lists
+
+** Moving around in our outline
+** buy airplane
+
+* DONE gym
+* DONE buy headphones
+  CLOSED: [2015-05-13 Wed 16:00]
+* TODO cancel phone plan
+* DONE aae buy earplugs
+* DONE buy eye mask
+* TODO build outdoor adevnture club website
+* DONE contact clients
+* DONE pack for climbing
+* TODO SYD campus recruiting
+* TODO SILICON VALLEY
+* TODO GAME OF THRONES
